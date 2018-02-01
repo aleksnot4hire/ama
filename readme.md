@@ -2,13 +2,11 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden)
 
-I get a lot of questions by email. This way anyone can read the answer!
+I'm working on my english and js chops. People sometimes email me.. now anyone can post questions and read my answers. No recruiters or cofounder requests.
 
-Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
+Anything goes. Personal questions.. like Russia, coding, skydiving, javascript, crypto, twitch, bots, open source...
 
----
-
-<div align="center">Huge thanks to &nbsp;<a href="https://www.miles.no"><img src="https://user-images.githubusercontent.com/170270/34912034-3332ae4c-f8d6-11e7-8569-65b11486d003.png" width="80"></a>&nbsp; for sponsoring my open source work on <a href="https://www.patreon.com/sindresorhus">Patreon</a>.</div>
+◎[▪‿▪]◎
 
 ---
 
@@ -22,6 +20,8 @@ Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever
 
 ### Links
 
-- [Read more AMAs](https://github.com/sindresorhus/amas)
-- [Create your own AMA](https://github.com/sindresorhus/amas/blob/master/create-ama.md)
-- [What's an AMA?](https://en.wikipedia.org/wiki//r/IAmA)
+- [Follow me on twitter](https://twitter.com/aleksnot4hire)
+- [View my latest project](https://mobilecavalry.com)
+
+
+aleks.
